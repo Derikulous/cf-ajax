@@ -1,5 +1,11 @@
-# RailsCasts Episode #136: jQuery & Ajax (revised)
+# Ajax Resource based on Railscast #  136
 
-http://railscasts.com/episodes/136-jquery-ajax-revised
+## RailsCasts Episode #136: jQuery & Ajax (revised)
 
-Requires Ruby 1.9.2 or higher.
+This app is a step-by-step from Railscast #136 so that I can learn about AJAX calls in Rails.
+
+Basics:
+1) Create 4 .js.erb files for Update, New, Update, and Destroy
+2) update the tasks controller to respond to the new .js task views.
+3) add remote: true links in the .html.erb files
+4) Add coffeescript language to respond to actions in the view
